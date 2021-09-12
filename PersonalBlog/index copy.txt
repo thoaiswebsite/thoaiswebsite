@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, intitial-scale=1.0">
+	<title>Chi's Cake blog</title>
+</head>
+<body>
+    <header>
+        <p class="t" style= "font-size: 15px"> Blog </p>
+        <h1 style="font-size: 30px;">Chi's Cake</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li> <a href="index.html">Home</a> </li>
+            <li> Products 
+                <ol>
+                    <li><a href="details-1.html"> Classic Yellow Cake </a></li>
+                    <li><a href="details-2.html"> Coconut Bundt Cake </a></li>
+                    <li><a href="details-3.html"> Cream Cheese Pound Cake </a></li>
+                    <li><a href="details-4.html"> German Chocolate Cake </a></li>
+                </ol>
+            </li>
+            <li> <a href="about.html">About</a> </li>
+        </ul>
+    </nav>
+
+	<main>
+        <article>
+            <p class="t" style= "font-size: 15px"> 05/Jan </p>
+            <h2 style="font-size: 23px;">Classic Yellow Cake with Chocolate Frosting</h2>
+            <img src="images/ClassicYellowCake.png" alt="ClassicYellowCake">
+            <p class="t" style= "font-size: 15px"> This fluffy vanilla cake recipe is the absolute best yellow cake from scratch and paired
+                with the silky smooth chocolate frosting, you can't beat it for a classic birthday cake or any other celebration! </p>
+            <a href="Details-1.html"> Read more </a>
+        </article>
+
+        <article>
+            <p class="t" style= "font-size: 15px"> 07/Jan </p>
+            <h2 style="font-size: 23px;">Coconut Bundt Cake with White Chocolate-Coconut Glaze</h2>
+            <img src="images/CoconutBundtCake.png" alt="CoconutBundtCake">
+            <p class="t" style= "font-size: 15px"> Last week flew by and before I knew it, it was timee to plan the menu for Sunday dinner.
+                Sundays have been a perfect opportunity for me to experiment with new dessert recipes, especcially those that serve tons of
+                people, since we have help polishing it all off and don't have it sitting around the house, tempting us for days. </p>
+            <a href="Details-2.html"> Read more </a>
+        </article> 
+
+        <article>
+            <p class="t" style= "font-size: 15px"> 01/Feb </p>
+            <h2 style="font-size: 23px;">Cream Cheese Pound Cake</h2>
+            <img src="images/CreamCheesePoundCake.png" alt="CreamCheesePoundCake">
+            <p class="t" style= "font-size: 15px"> If you are looking for the perfect cream cheese pound cake recipe that turns out buttery, 
+                moist, and dense each and everytime, add this year-round crowd-pleaser to your list! Using only 7 simple ingredents, 
+                this easy cream cheese pound cake will quickly become your favorite; serve plain with a sprinkle of powdered sugar or offer
+                homemade whipped cream and berries, or a drizzle of ssalted caramel or fudge sauce.</p>
+            <a href="Details-3.html"> Read more </a>
+        </article> 
+
+        <article>
+            <p class="t" style= "font-size: 15px"> 12/Feb </p>
+            <h2 style="font-size: 23px;">German Chocolate Cake</h2>
+            <img src="images/GermanChocolateCake.png" alt="GermanChocolateCake">
+            <p class="t" style= "font-size: 15px"> I have long associated German Chocolate Cake with Father's Day, although I'm not entirely
+            sure why. I think I remember my mom making it for my dad once or twice growing up (although never on Father's Day, ironically) and
+            the correlation must have stuck somewhere along the way </p>
+            <a href="Details-4.html"> Read more </a>
+        </article>
+
+    </main>
+	<footer>
+		<p class="t" style="font-size: 15px;">&#169; 2023 by Chi's Cake</p>
+	</footer>
+
+</body>
+</html>
